@@ -1,0 +1,5 @@
+name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
+Global Information	43658	43658	0	0	0	-1	16190	16190	-1	6	6	-1	273	273	-1	0	0	-1	0	0	-1	t < 800 ms	43637	99	800 ms < t < 1200 ms	0	0	t > 1200 ms	21	0	failed	0	0	345	345	-1
+diracquizz deflate	44	44	0	0	0	-1	15290	15290	-1	1869	1869	-1	4415	4415	-1	12920	12920	-1	15290	15290	-1	t < 800 ms	37	84	800 ms < t < 1200 ms	0	0	t > 1200 ms	7	15	failed	0	0	0	0	-1
+diracquizz inflate	43614	43614	0	0	0	-1	16190	16190	-1	4	4	-1	227	227	-1	0	0	-1	0	0	-1	t < 800 ms	43600	99	800 ms < t < 1200 ms	0	0	t > 1200 ms	14	0	failed	0	0	345	345	-1
+
